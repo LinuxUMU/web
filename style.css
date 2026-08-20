@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Font Awesome 5 Free";
+    font-style: normal;
+    font-weight: 900;
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2") format("woff2");
+}
+
+* {
+    margin: 0 0 0 0;
+}
+
+body {
+    padding: 5em 0 0 0;
+    background-color: #ffffff;
+    color: #111111;
+    margin: 0 auto 0 auto;
+    font-family: "Monospace";
+    max-width: 65em;
+}
+
+header {
+    background-color: #1c1c1c;
+    height: 5em;
+    line-height: 5em;
+    text-align: right;
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.inner {
+    max-width: 65em;
+    width: calc(100% - 6em);
+    margin: 0 auto 0 auto;
+    position: relative;
+}
+
+.logo {
+    display: inline-block;
+    height: inherit;
+    left: 0;
+    top: 0;
+    line-height: inherit;
+    margin: 0 0 0 0;
+    position: absolute;
+    font-size: 1.75em;
+}
+
+.logo img {
+    height: 2em;
+    vertical-align: middle;
+}
+
+nav {
+    display: inline-block;
+}
+
+nav a {
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1em;
+    padding: 0 1em 0 1em;
+    color: #ffffff;
+}
+
+footer {
+    color: #ffffff;
+    padding: 4em 0 2em 0;
+    background: #8d1300;
+    margin: 0 0 0 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+}
+
+footer .inner {
+    max-width: 65em;
+    width: calc(100% - 6em);
+    margin: 0 auto 0 auto;
+}
+
+footer .copyright {
+    font-size: 0.9em;
+    margin: 0 0 2em 0;
+    padding: 0 0 0 0;
+    line-height: 1.25;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer span + span {
+    margin-left: 0.4em;
+    padding-left: 0.5em;
+    border-left: 1px solid #ffff;
+}
+
+footer i {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+
+.telegram::before {
+    content: "\f1d8";
+}
+
