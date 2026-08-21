@@ -1,8 +1,12 @@
 @font-face {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: 900;
-    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2") format("woff2");
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2") format("woff2");
+}
+
+:root {
+    --width: 50em;
 }
 
 body {
@@ -25,7 +29,7 @@ header {
 }
 
 .inner {
-    max-width: 65em;
+    max-width: var(--width);
     width: calc(100% - 6em);
     margin: 0 auto 0 auto;
     position: relative;
@@ -64,6 +68,10 @@ nav a {
     padding: 0 1em 0 1em;
 }
 
+nav a:hover {
+    text-decoration: underline;
+}
+
 footer {
     padding: 4em 0 2em 0;
     background: #8d1300;
@@ -74,7 +82,7 @@ footer {
 }
 
 footer .inner {
-    max-width: 65em;
+    max-width: var(--width);
     width: calc(100% - 6em);
     margin: 0 auto 0 auto;
 }
@@ -91,14 +99,18 @@ footer a {
     text-decoration: none;
 }
 
+footer a:hover {
+    text-decoration: underline;
+}
+
 footer span + span {
     margin-left: 0.4em;
     padding-left: 0.5em;
-    border-left: 1px solid #ffff;
+    border-left: 1px solid #f0f0f0;
 }
 
 footer i {
-    font-family: "Font Awesome 5 Free";
+    font-family: "Font Awesome 5 Brands";
     font-weight: 900;
     font-style: normal;
     font-variant: normal;
@@ -106,17 +118,23 @@ footer i {
     line-height: 1;
 }
 
-.telegram::before {
-    content: "\f1d8";
-}
-
 section {
-    max-width: 65em;
+    max-width: var(--width);
     width: calc(100% - 6em);
     margin: 0 auto 0 auto;
 }
 
-h1 h2 p {
-    margin: 1em 0 1em 0;
+.button {
+    font-size: 1.25em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #1c1c1c;
+    background-color: #f0f0f0;
+    margin: 0 auto 0 auto;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.button:hover {
+    text-decoration: underline;
 }
 

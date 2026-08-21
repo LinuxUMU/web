@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>{{ page.title }}</title>
+        <meta charset="UTF-8" />
+        <meta content="LinuxUMU" property="og:site_name" />
+        <meta content="website" property="og:type" />
+        <meta content="{{ "/" | absolute_url }}" property="og:url" />
+        <meta content="{{ page.title }}" property="og:title" />
+        <meta content="{{ "/images/logo.svg" | absolute_url }}" property="og:image" />
+        <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" />
+        <link rel="stylesheet" type="text/css" href="{{ "/css/style.css" | relative_url }}">
+    </head>
+    <body>
+        <header>
+            <div class="inner">
+                <a class="logo" href="{{ "/" | relative_url }}"><img src="{{ "/images/logo.svg" | relative_url }}" alt="logo"></a>
+                <nav>
+                    <a href="{{ "/actividades/" | relative_url }}">Actividades</a>
+                    <a href="{{ "/wiki/" | relative_url }}">Wiki</a>
+                </nav>
+            </div>
+        </header>
+        <h1>{{ page.title }}</h1>
+        <section>
+            {{ content }}
+        </section>
+        <footer>
+            <div class="inner">
+                <span>&copy; 2026 LinuxUMU under the terms of the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">GPL Licence</a></span>
+                <div class="copyright">
+                    <span><a href="https://www.um.es/web/informatica/" target="_blank">Facultad de informática</a></span>
+                    <span><a href="mailto:linuxumu@um.es" target="_blank">linuxumu@um.es</a></span>
+                    <span>
+                        <a style="margin: 0 0.25rem" href="https://t.me/linuxumu" target="_blank"><i>&#xf3fe;</i></a>
+                        <a style="margin: 0 0.25rem" href="https://github.com/LinuxUMU" target="_blank"><i>&#xf092;</i></a>
+                    </span>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
+
