@@ -5,17 +5,12 @@
     src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2") format("woff2");
 }
 
-* {
-    margin: 0 0 0 0;
-}
-
 body {
     padding: 5em 0 0 0;
-    background-color: #ffffff;
-    color: #111111;
+    background-color: #303030;
+    color: #f0f0f0;
     margin: 0 auto 0 auto;
     font-family: "Monospace";
-    max-width: 65em;
 }
 
 header {
@@ -56,22 +51,26 @@ nav {
     display: inline-block;
 }
 
+a {
+    color: #f0f0f0;
+    font-weight: 700;
+}
+
 nav a {
+    color: #f0f0f0;
     font-weight: 700;
     text-decoration: none;
     font-size: 1em;
     padding: 0 1em 0 1em;
-    color: #ffffff;
 }
 
 footer {
-    color: #ffffff;
     padding: 4em 0 2em 0;
     background: #8d1300;
     margin: 0 0 0 0;
     left: 0;
-    position: fixed;
     width: 100%;
+    display: block;
 }
 
 footer .inner {
@@ -88,7 +87,7 @@ footer .copyright {
 }
 
 footer a {
-    color: #fff;
+    color: #f0f0f0;
     text-decoration: none;
 }
 
@@ -109,5 +108,15 @@ footer i {
 
 .telegram::before {
     content: "\f1d8";
+}
+
+section {
+    max-width: 65em;
+    width: calc(100% - 6em);
+    margin: 0 auto 0 auto;
+}
+
+h1 h2 p {
+    margin: 1em 0 1em 0;
 }
 
