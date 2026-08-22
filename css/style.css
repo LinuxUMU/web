@@ -147,3 +147,26 @@ section {
     text-decoration: underline;
 }
 
+.sidebar {
+    margin: 0;
+    padding: 0;
+    width: 20em;
+    background-color: #1c1c1c;
+    position: fixed;
+    left: 0;
+    height: 100%;
+    overflow: auto;
+}
+
+.sidebar a {
+    text-decoration: none;
+}
+
+.sidebar a.active {
+
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+

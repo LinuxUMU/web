@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="sidebar">
+    <ul>
+    {% for art in site.wiki %}
+        <li><a href="{{ art.url }}">{{ art.title }}</a></li>
+    {% endfor %}
+    </ul>
+</div>
+
+{{ content }}
+
