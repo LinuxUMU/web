@@ -9,10 +9,10 @@ layout: default
 **LinuxUMU** es una (*futura*) asociación universitaria sin animo de lucro con el
 objetivo de promover el **software libre** en la Universidad de Murcia.
 
-Creemos que es del interes de los estudiantes el software libre, la filosofía
+Creemos que es del interés de los estudiantes el software libre, la filosofía
 Open Source, y su cultura asociada, para el desarrollo de habilidades,
 la soberanía digital, privacidad y
-la libre compartición de la información y el conodicimiento **al servicio
+la libre compartición de la información y el conocimiento **al servicio
 de la humanidad**.
 
 A ese efecto, los objetivos de esta organización son:
@@ -75,7 +75,7 @@ basado en el [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel), su n
 herramientas que lo complementan y lo hacen útil, como una terminal, utilidades como
 el proyecto GNU, o un entorno gráfico como GNOME, KDE o Xfce, lo que *ves* en la pantalla.
 
-Frecuentemente, las distribuciones no existen en un vacío y suelen estár basadas en otras
+Frecuentemente, las distribuciones no existen en un vacío y suelen estar basadas en otras
 distribuciones fundamentales. Existen familias de distribuciones según que distribución
 fundamental se basan: la familia de las basadas en Debian, las basadas en Arch, las basadas en
 Red Hat, etc.
@@ -93,7 +93,7 @@ el software usado en el grado.
 
 ### Workshops
 
-Con el fín de aprender a usar las herramientas de software que el ecosistema de Linux nos ofrece,
+Con el fin de aprender a usar las herramientas de software que el ecosistema de Linux nos ofrece,
 hacemos workshops prácticas explicando, enseñando y ayudando en el uso de programas. Algunas de
 las workshops son:
 
@@ -105,9 +105,9 @@ las workshops son:
 
 ### Excursiones
 
-Existen eventos donde se reunen personas y proyectos de software libre que promueven su
-uso y diseminación por inidividuos y organizaciones. Se pueden organizar visitas a ellos
-en grupo para compartir experiencias bonitas, socializar con gentes de otros ámbitos y paises,
+Existen eventos donde se reúnen personas y proyectos de software libre que promueven su
+uso y diseminación por individuos y organizaciones. Se pueden organizar visitas a ellos
+en grupo para compartir experiencias bonitas, socializar con gentes de otros ámbitos y países,
 hacer amistades y relaciones; y facilitar los viajes compartiendo gastos. Algunos de ellos son:
 
  - [FOSDEM (Bruselas)](https://fosdem.org/)

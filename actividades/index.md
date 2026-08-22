@@ -31,6 +31,6 @@ con los instaladores de Debian y Ubuntu en PXE.
 El metodo estándar de instalación, es dual-boot de Windows y Linux, donde
 se conserva la instalación de Windows y se añade una de Linux en el
 miso disco, por si por alguna razón el estudiante deseara usar Windows,
-eligiendolo en el menú de arranque. Si el estudiante lo deseara, o no
+eligiéndolo en el menú de arranque. Si el estudiante lo deseara, o no
 le importase Windows, se puede instalar Linux como único sistema operativo.
 
