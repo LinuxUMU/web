@@ -14,14 +14,13 @@
     <body>
         <header>
             <div class="inner">
-                <a class="logo" href="{{ "/" | relative_url }}"><img src="{{ "/images/logo.svg" | relative_url }}" alt="logo"></a>
+                <a class="logo" href="{{ "/" | relative_url }}"><img src="{{ "/images/logo.svg" | relative_url }}" alt="logo"><span>LinuxUMU</span></a>
                 <nav>
                     <a href="{{ "/actividades/" | relative_url }}">Actividades</a>
                     <a href="{{ "/wiki/" | relative_url }}">Wiki</a>
                 </nav>
             </div>
         </header>
-        <h1>{{ page.title }}</h1>
         <section>
             {{ content }}
         </section>

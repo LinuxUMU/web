@@ -38,12 +38,21 @@ header {
 .logo {
     display: inline-block;
     height: inherit;
+    position: absolute;
     left: 0;
     top: 0;
     line-height: inherit;
     margin: 0 0 0 0;
-    position: absolute;
     font-size: 1.75em;
+    text-decoration: none;
+}
+
+.logo span {
+    margin-left: 0.5em;
+}
+
+.logo:hover {
+    text-decoration: underline;
 }
 
 .logo img {
