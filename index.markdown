@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 # LinuxUMU
@@ -61,7 +61,7 @@ enseñanza práctica del grado.
 
 Así que para facilitar la iniciación de los nuevos estudiantes en este
 nuevo y excitante paradigma de la informática, se ofrece una actividad
-donde recibirá ayuda y información para instalar una de las distribuciones
+donde recibirá ayuda e información para instalar una de las distribuciones
 de Linux a elegir en sus ordenadores personales que usarán durante el curso,
 tales como:
 
@@ -70,10 +70,18 @@ tales como:
  - [Mint](https://www.linuxmint.com/)
  - [Fedora](https://fedoraproject.org/)
 
-Una *distribución* de Linux es un sistema operativo completo, como Windows,
-basado en el [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel), su núcleo vital, y sobre este, software y otras
-herramientas que lo complementan y lo hacen útil, como una terminal, utilidades como
-el proyecto GNU, o un entorno gráfico como GNOME, KDE o Xfce, lo que *ves* en la pantalla.
+Una *distribución* de Linux es un sistema operativo completo, como Windows o MacOS.
+Las distribuciones reciben ese nombre porque distribuyen el nucleo, o 
+[kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel),
+el tejido conectivo de un sistema operativo, y sobre este, software, utilidades o
+herramientas que lo complementan y lo hacen útil. Ejemplos como una terminal y una shell,
+utilidades básicas como las del proyecto GNU, o un entorno gráfico como GNOME, KDE o Xfce,
+que son lo que *ves* en la pantalla, más todo lo que quieras hacer con tu ordenador como
+ofimática con LibreOffice.
+
+Todo este software es preparado y *empaquetado* cuidadosamente por la distribución para
+que todo sea compatible con todo y el usuario tenga los menores problemas posibles.
+Gracias y a través de un [administrador de paquetes](https://en.wikipedia.org/wiki/Package_manager).
 
 Frecuentemente, las distribuciones no existen en un vacío y suelen estár basadas en otras
 distribuciones fundamentales. Existen familias de distribuciones según que distribución
