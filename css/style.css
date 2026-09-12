@@ -127,7 +127,7 @@ footer i {
     line-height: 1;
 }
 
-section {
+main {
     max-width: var(--width);
     width: calc(100% - 6em);
     margin: 0 auto 0 auto;
@@ -147,15 +147,26 @@ section {
     text-decoration: underline;
 }
 
+.flex-sidebar {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (min-width:768px) {
+    .flex-sidebar > .sidebar {
+        width: calc(100% - var(--width) * 2em - 6em);
+    }
+    .flex-sidebar > main {
+        width: var(--width);
+        margin-right: 0;
+    }
+}
+
 .sidebar {
     margin: 0;
     padding: 0;
-    width: 20em;
     background-color: #1c1c1c;
-    position: fixed;
-    left: 0;
     height: 100%;
-    overflow: auto;
 }
 
 .sidebar a {

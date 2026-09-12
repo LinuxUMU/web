@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<div class="sidebar">
-    <ul>
-    {% for art in site.wiki %}
-        <li><a href="{{ art.url }}">{{ art.title }}</a></li>
-    {% endfor %}
-    </ul>
-</div>
+<div class="flex-sidebar">
+    <main>
+        {{ content }}
+    </main>
 
-{{ content }}
+    <section class="sidebar">
+        <ul>
+        {% for art in site.wiki %}
+            <li><a href="{{ art.url }}">{{ art.title }}</a></li>
+        {% endfor %}
+        </ul>
+    </section>
+</div>
 
