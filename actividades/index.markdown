@@ -14,6 +14,8 @@ usar Linux y su software para su futuro como informáticos.
 Ven al Aula 0.01 desde las 08:00 hasta las 21:00h, habra alguien en todo momento
 para ayudarte.
 
+<div style="text-align: center"><a class="button" href="https://nextcloud.arf20.com/apps/forms/s/CEZJdJfmbdogm8rSxtydSAHK">INSCRIBETE!</a></div>
+
 Los estudiantes que quieran participar deberán de llevar un pen drive
 USB de al menos 8GB, para crear los medios de instalación de la distribución
 elegida.
