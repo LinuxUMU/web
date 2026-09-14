@@ -41,7 +41,7 @@ A ese efecto, los objetivos de esta organización son:
 ## Qué es el software libre?
 
 El [software libre](https://en.wikipedia.org/wiki/Free_software) es aquel que es desarrollado y distribuido de manera
-que se respeta el **derecho humano al conocimiento** mediante licencias de
+que se respeta el **derecho fundamental al libre acceso al conocimiento** mediante licencias de
 software libre.
 
 Las licencias de software libre son aquellas que permiten y aseguran el derecho
