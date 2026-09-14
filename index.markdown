@@ -12,7 +12,7 @@ objetivo de promover el **software libre** en la Universidad de Murcia.
 Creemos que es del interes de los estudiantes el software libre, la filosofía
 Open Source, y su cultura asociada, para el desarrollo de habilidades,
 la soberanía digital, privacidad y
-la libre compartición de la información y el conodicimiento **al servicio
+la libre compartición de la información y el conocimiento **al servicio
 de la humanidad**.
 
 A ese efecto, los objetivos de esta organización son:
@@ -20,6 +20,13 @@ A ese efecto, los objetivos de esta organización son:
  - Promover el uso del software libre en **todos los ámbitos** de la universidad,
    como la enseñanza e investigación, mediante la puesta a disposición de
    recursos y realización de actividades educativas.
+ - Al mismo tiempo, el reemplazo y eliminación de todo el software y firmware
+   privativo posible, de pago o no, por alternativas de software libre.
+ - Reducción o eliminación de la dependencia y uso frívolo de servicios en la nube,
+   sobretodo de empresas fuera de la UE, que por la fuerza obligan el uso de software
+   privativo; y la vuelta al alojamiento local de los servicios de la universidad.
+ - Educar sobre el mal uso de la IA generativa y LLMs, suprimiendolo en el contexto
+   universitario. Enseñar como investigar problemas en internet sin recurrir a ella.
  - Fomentar la participación en proyectos de software, cultura, redes y hardware libre.
  - Educar en buenas prácticas en la especificación, diseño, implementación, implantación
    y gestión de proyectos de software libre.
@@ -27,7 +34,7 @@ A ese efecto, los objetivos de esta organización son:
    de software libre relevantes.
  - Facilitar la reutilización de hardware antiguo en lugar de su descarte.
  - Educar sobre el **derecho universal a la privacidad** y prácticas para
-   asegurarlo online y en la vida de los estudiantes.
+   asegurarlo en internet y en la vida de los estudiantes.
 
 <div style="text-align: center"><a class="button" href="https://t.me/linuxumu">Unete al chat de Telegram!</a></div>
 
@@ -120,5 +127,4 @@ hacer amistades y relaciones; y facilitar los viajes compartiendo gastos. Alguno
 
  - [FOSDEM (Bruselas)](https://fosdem.org/)
  - EsLibre (España)
- - CCC Camp (Alemania)
 
