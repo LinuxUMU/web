@@ -1,4 +1,32 @@
 @font-face {
+    font-family: "Liberation Mono";
+    font-style: normal;
+    font-weight: normal;
+    src: url("/fonts/LiberationMono-Regular.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Liberation Mono";
+    font-style: normal;
+    font-weight: bold;
+    src: url("/fonts/LiberationMono-Bold.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Liberation Mono";
+    font-style: italic;
+    font-weight: normal;
+    src: url("/fonts/LiberationMono-Italic.ttf") format("ttf");
+}
+
+@font-face {
+    font-family: "Liberation Mono";
+    font-style: italic;
+    font-weight: bold;
+    src: url("/fonts/LiberationMono-BoldItalic.ttf") format("ttf");
+}
+
+@font-face {
     font-family: "Font Awesome 5 Brands";
     font-style: normal;
     font-weight: 900;
@@ -14,7 +42,7 @@ body {
     background-color: #303030;
     color: #f0f0f0;
     margin: 0 auto 0 auto;
-    font-family: "Monospace";
+    font-family: "Liberation Mono";
 }
 
 header {
