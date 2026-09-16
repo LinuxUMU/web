@@ -2,28 +2,28 @@
     font-family: "Liberation Mono";
     font-style: normal;
     font-weight: normal;
-    src: url("/fonts/LiberationMono-Regular.ttf") format("ttf");
+    src: url("/web/fonts/LiberationMono-Regular.ttf");
 }
 
 @font-face {
     font-family: "Liberation Mono";
     font-style: normal;
     font-weight: bold;
-    src: url("/fonts/LiberationMono-Bold.ttf") format("ttf");
+    src: url("/web/fonts/LiberationMono-Bold.ttf");
 }
 
 @font-face {
     font-family: "Liberation Mono";
     font-style: italic;
     font-weight: normal;
-    src: url("/fonts/LiberationMono-Italic.ttf") format("ttf");
+    src: url("/web/fonts/LiberationMono-Italic.ttf");
 }
 
 @font-face {
     font-family: "Liberation Mono";
     font-style: italic;
     font-weight: bold;
-    src: url("/fonts/LiberationMono-BoldItalic.ttf") format("ttf");
+    src: url("/web/fonts/LiberationMono-BoldItalic.ttf");
 }
 
 @font-face {
