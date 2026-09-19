@@ -9,7 +9,7 @@ layout: page
 **LinuxUMU** es una (*futura*) asociación universitaria sin animo de lucro con el
 objetivo de promover el **software libre** en la Universidad de Murcia.
 
-Creemos que es del interes de los estudiantes el software libre, la filosofía
+Creemos que es del interés de los estudiantes el software libre, la filosofía
 Open Source, y su cultura asociada, para el desarrollo de habilidades,
 la soberanía digital, privacidad y
 la libre compartición de la información y el conocimiento **al servicio
@@ -25,7 +25,7 @@ A ese efecto, los objetivos de esta organización son:
  - Reducción o eliminación de la dependencia y uso frívolo de servicios en la nube,
    sobretodo de empresas fuera de la UE, que por la fuerza obligan el uso de software
    privativo; y la vuelta al alojamiento local de los servicios de la universidad.
- - Educar sobre el mal uso de la IA generativa y LLMs, suprimiendolo en el contexto
+ - Educar sobre el mal uso de la IA generativa y LLMs, suprimiéndolo en el contexto
    universitario. Enseñar como investigar problemas en internet sin recurrir a ella.
  - Fomentar la participación en proyectos de software, cultura, redes y hardware libre.
  - Educar en buenas prácticas en la especificación, diseño, implementación, implantación
@@ -49,7 +49,7 @@ de las personas a usar, estudiar, modificar y redistribuir el software
 **de manera libre, sin limites**. Dentro de estas, están las licencias
 [Open Source](https://opensource.org/osd), que son aquellas
 que cumplen con ciertos requisitos definidos con el fin de proteger
-el software de la apropiación y privaticación.
+el software de la apropiación y privatización.
 
 Algunos [ejemplos](https://en.wikipedia.org/wiki/Free-software_license) de licencias son:
 
@@ -78,7 +78,7 @@ tales como:
  - [Fedora](https://fedoraproject.org/)
 
 Una *distribución* de Linux es un sistema operativo completo, como Windows o MacOS.
-Las distribuciones reciben ese nombre porque distribuyen el nucleo, o 
+Las distribuciones reciben ese nombre porque distribuyen el núcleo, o 
 [kernel de Linux](https://en.wikipedia.org/wiki/Linux_kernel),
 el tejido conectivo de un sistema operativo, y sobre este, software, utilidades o
 herramientas que lo complementan y lo hacen útil. Ejemplos como una terminal y una shell,
@@ -90,7 +90,7 @@ Todo este software es preparado y *empaquetado* cuidadosamente por la distribuci
 que todo sea compatible con todo y el usuario tenga los menores problemas posibles.
 Gracias y a través de un [administrador de paquetes](https://en.wikipedia.org/wiki/Package_manager).
 
-Frecuentemente, las distribuciones no existen en un vacío y suelen estár basadas en otras
+Frecuentemente, las distribuciones no existen en un vacío y suelen estar basadas en otras
 distribuciones fundamentales. Existen familias de distribuciones según que distribución
 fundamental se basan: la familia de las basadas en Debian, las basadas en Arch, las basadas en
 Red Hat, etc.
@@ -108,7 +108,7 @@ el software usado en el grado.
 
 ### Workshops
 
-Con el fín de aprender a usar las herramientas de software que el ecosistema de Linux nos ofrece,
+Con el fin de aprender a usar las herramientas de software que el ecosistema de Linux nos ofrece,
 hacemos workshops prácticas explicando, enseñando y ayudando en el uso de programas. Algunas de
 las workshops son:
 
@@ -120,9 +120,9 @@ las workshops son:
 
 ### Excursiones
 
-Existen eventos donde se reunen personas y proyectos de software libre que promueven su
-uso y diseminación por inidividuos y organizaciones. Se pueden organizar visitas a ellos
-en grupo para compartir experiencias bonitas, socializar con gentes de otros ámbitos y paises,
+Existen eventos donde se reúnen personas y proyectos de software libre que promueven su
+uso y diseminación por individuos y organizaciones. Se pueden organizar visitas a ellos
+en grupo para compartir experiencias bonitas, socializar con gentes de otros ámbitos y países,
 hacer amistades y relaciones; y facilitar los viajes compartiendo gastos. Algunos de ellos son:
 
  - [FOSDEM (Bruselas)](https://fosdem.org/)
