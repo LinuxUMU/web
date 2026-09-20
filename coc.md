@@ -28,7 +28,7 @@ una actividad positiva en la comunidad, incluyendo:
  4. Responsabilizarse de las acciones de uno
  5. Dar y aceptar critica siempre que sea constructiva
  6. Cuando se presta ayuda, actuar con paciencia, humildad y entendimiento, aquí hemos venido para aprender
- 7. Enmendar el daño inflingido cuando ocurra.
+ 7. Enmendar el daño infligido cuando ocurra.
  8. Comportarse en general de una manera que aporte a la actividad de la comunidad.
 
 ## Restricciones
@@ -37,17 +37,17 @@ Con el ánimo de mantener una comunidad segura y acogedora, también es necesari
 definir que conductas no están permitidos bajo ningún concepto en la comunidad.
 
  1. Acoso. Violar límites expresados, o atención personal no deseada tras cualquier petición clara de parar esa conducta.
- 2. Ataques personales. Comentarios insultantes, denigantes o peyorativos dirigidos a un miembro o grupo de personas de esta comunidad o ajena a esta.
+ 2. Ataques personales. Comentarios insultantes, denigrantes o peyorativos dirigidos a un miembro o grupo de personas de esta comunidad o ajena a esta.
  3. Estereotipos o discriminación. Caracterizar la personalidad o comportamiento de alguien en base a categorías, identidades o rasgos.
  4. Sexualización. Comportamiento que se considere generalmente íntimamente inapropiado en el contexto universitario o de la comunidad, deseado o no.
- 5. Vulneración de confidencialidad. Compartir información personal o privada de cualquier persona, o actuar basandose en ella, sin su permiso.
+ 5. Vulneración de confidencialidad. Compartir información personal o privada de cualquier persona, o actuar basándose en ella, sin su permiso.
  6. Puesta en peligro. Causar, incitar o amenazar con violencia o daño de cualquier tipo, a personas o grupos propios o ajenos a la comunidad.
  7. Identidad engañosa. Suplantación de identidad o hacerse pasar por otra persona, por cualquier motivo, como evadir medidas.
  8. Cualquier conducta que pueda amenazar al bienestar de esta comunidad.
 
 ## Responsabilidades
 
- 1. Atribución. Cuando se aporta contenido, incluir siempre fuentes y atribuciones apropiadas, respentando siempre las licencias.
+ 1. Atribución. Cuando se aporta contenido, incluir siempre fuentes y atribuciones apropiadas, respetando siempre las licencias.
  2. Material promocional. No compartir material promocional, de marketing o comercial.
  3. Comunicación responsable. No presentar de manera irresponsable contenido que contenga links o, referencias a comportamientos restringidos anteriores.
 
@@ -69,7 +69,7 @@ enviar un correo a la dirección de la comunidad.
 
 Si una investigación por parte de los responsables de la comunidad determina que
 se han violado este Código de Conducta, se podrán aplicar la siguiente escala de
-medidas para reparar el daño inflingido, dependiendo de el impacto del incidente
+medidas para reparar el daño infligido, dependiendo de el impacto del incidente
 en las personas involucradas y en la comunidad en su conjunto. Si la acción es lo
 suficientemente severa, es posible la omisión de los niveles inferiores de la escala.
 
@@ -81,7 +81,7 @@ suficientemente severa, es posible la omisión de los niveles inferiores de la e
 
 ### 2. Actividades limitadas temporalmente
 
- - Evento: Repetición de infracción que dió lugar a una advertencia.
+ - Evento: Repetición de infracción que dio lugar a una advertencia.
  - Consecuencia: Advertencia privada acompañada de suspensión de las actividades
    que los responsables crean convenientes (i.e. canales de comunicación), para materializar la gravedad de la situación,
    y dar tiempo a los involucrados para procesar el incidente.
@@ -91,7 +91,7 @@ suficientemente severa, es posible la omisión de los niveles inferiores de la e
 
 ### 3. Suspensión temporal
  
- - Evento: Un patrón de infracciónes que dan lugar a la anterior medida, o una infracción severa única.
+ - Evento: Un patrón de infracciones que dan lugar a la anterior medida, o una infracción severa única.
  - Consecuencia: Una advertencia informativa de que no podrá tomar parte en la comunidad
    hasta que se cumplan unas condiciones establecidas para el levantamiento de la suspensión.
    Esta medida también está diseñada para darle tiempo a reflexionar a la persona suspendida.
@@ -108,7 +108,7 @@ suficientemente severa, es posible la omisión de los niveles inferiores de la e
  - Reparación: No hay reparación posible para casos de esta severidad.
 
 Esta escala de medidas es solo una guía de actuación. En ningún caso limita a
-los responsables de la comunidad a usar su discrección y juicio, en conservar
+los responsables de la comunidad a usar su discreción y juicio, en conservar
 los valores y intereses de la comunidad.
 
 Los responsables tienen el derecho y la responsabilidad de quitar, editar o rechazar
@@ -126,13 +126,13 @@ Infracciones graves de normas culturales como manifestaciones de intolerancia, a
 u otros comportamientos inapropiados fuera de espacios de nuestra comunidad por
 miembros de esta, pueden dar lugar a medidas disciplinarias en la comunidad. El
 objetivo es garantizar un espacio seguro donde las personas miembro no puedan sentirse amenazadas
-por personas que incurran en conductas inapropiadas mas alla de nuestrs límites.
+por personas que incurran en conductas inapropiadas mas allá de nuestros límites.
 
 ## Atribución
 
 Este Código de Conducta es una adaptación del
 [CoC del Prooyecto Hare](https://harelang.org/documentation/community/conduct.html)
-que a su véz está basado en el [Contributor Covenant, versión 3.0](https://www.contributor-covenant.org/version/3/0/),
+que a su vez está basado en el [Contributor Covenant, versión 3.0](https://www.contributor-covenant.org/version/3/0/),
 y la escala inspirada en el [trabajo del equipo de Código de Conducta de Mozilla](https://github.com/mozilla/inclusion).
 Está publicado bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
