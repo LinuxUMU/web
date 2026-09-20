@@ -9,7 +9,7 @@ layout: page
 Queremos que LinuxUMU sea un espacio acogedor, seguro y equitativo para tod@s.
 
 A ese fin, el objetivo de este Código de Conducta es asegurar un espacio de respeto,
-que fometente la dignidad, derechos y contribuciones de todas las personas independientemente
+que fomente la dignidad, derechos y contribuciones de todas las personas independientemente
 de etnia, físico, neurodiversidad, discapacidad, identidad o expresión de género,
 orientación sexual, idioma, filosofía, religión, origen, o posición socioeconómica.
 
