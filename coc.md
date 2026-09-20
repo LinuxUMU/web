@@ -13,6 +13,10 @@ que fometente la dignidad, derechos y contribuciones de todas las personas indep
 de etnia, físico, neurodiversidad, discapacidad, identidad o expresión de género,
 orientación sexual, idioma, filosofía, religión, origen, o posición socioeconómica.
 
+Como parte de la mayor comunidad universitaria de la Universidad de Murcia, nos
+tenemos que adherir al [Código Ético de la Universidad de Murcia](https://www.um.es/web/codigo-etico/valores),
+incluyendo sus protocolos de actuación.
+
 ## Comportamientos
 
 Mientras diferencias en las normas sociales de cada cultura, nos esforzamos para
@@ -105,6 +109,9 @@ suficientemente severa, es posible la omisión de los niveles inferiores de la e
    la comunidad fiel a sus valores con esta persona como miembro.
  - Consecuencia: Acceso a todo el material, espacios, herramientas, y canales de
    comunicación son revocados. Toda trata con esta persona es prohibida.
+   Además, las consecuencias pueden no limitarse a esta comunidad, sino extenderse
+   a través de DELFI a otros espacios y actividades, y incluso abrirse un protocolo
+   con la universidad por ejemplo por acoso.
  - Reparación: No hay reparación posible para casos de esta severidad.
 
 Esta escala de medidas es solo una guía de actuación. En ningún caso limita a
