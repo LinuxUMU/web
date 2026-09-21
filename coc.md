@@ -17,6 +17,10 @@ Como parte de la mayor comunidad universitaria de la Universidad de Murcia, nos
 tenemos que adherir al [Código Ético de la Universidad de Murcia](https://www.um.es/web/codigo-etico/valores),
 incluyendo sus protocolos de actuación.
 
+Y finalmente, aunque pueda parecer redundante, nos vemos obligados a
+como personas humanas a incluir aquí una de las formalizaciones más básicas del respeto que es
+[La Declaración Universal de los Derechos Humanos](https://www.un.org/es/about-us/universal-declaration-of-human-rights).
+
 ## Comportamientos
 
 Mientras diferencias en las normas sociales de cada cultura, nos esforzamos para
