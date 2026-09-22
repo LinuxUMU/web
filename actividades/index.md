@@ -36,3 +36,5 @@ mismo disco, por si por alguna razón el estudiante deseara usar Windows,
 eligiéndolo en el menú de arranque. Si el estudiante lo deseara, o no
 le importase Windows, se puede instalar Linux como único sistema operativo.
 
+[Preguntas Frecuentes](lip-faq)
+
