@@ -19,12 +19,14 @@ A ese efecto, los objetivos de esta organización son:
 
  - Promover el uso del software libre en **todos los ámbitos** de la universidad,
    como la enseñanza e investigación, mediante la puesta a disposición de
-   recursos y realización de actividades educativas.
+   recursos y realización de actividades educativas. Así como sus principios, valores,
+   y filosofía.
  - Al mismo tiempo, el reemplazo y eliminación de todo el software y firmware
    privativo posible, de pago o no, por alternativas de software libre.
  - Reducción o eliminación de la dependencia y uso frívolo de servicios en la nube,
    sobretodo de empresas fuera de la UE, que por la fuerza obligan el uso de software
-   privativo; y la vuelta al alojamiento local de los servicios de la universidad.
+   privativo; y la vuelta al alojamiento local de los servicios de la universidad,
+   para devolver la soberanía de nuestros datos.
  - Educar sobre el mal uso de la IA generativa y LLMs, suprimiéndolo en el contexto
    universitario. Enseñar como investigar problemas en internet sin recurrir a ella.
  - Fomentar la participación en proyectos de software, cultura, redes y hardware libre.
@@ -40,9 +42,9 @@ A ese efecto, los objetivos de esta organización son:
 
 ## Qué es el software libre?
 
-El [software libre](https://en.wikipedia.org/wiki/Free_software) es aquel que es desarrollado y distribuido de manera
-que se respeta el **derecho fundamental al libre acceso al conocimiento** mediante licencias de
-software libre.
+El [software libre](https://en.wikipedia.org/wiki/Free_software) es aquel que es
+desarrollado y distribuido de manera que se respeta el **derecho fundamental al
+libre acceso al conocimiento** mediante licencias de software libre.
 
 Las licencias de software libre son aquellas que permiten y aseguran el derecho
 de las personas a usar, estudiar, modificar y redistribuir el software
