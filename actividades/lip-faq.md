@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # PREGUNTAS FRECUENTES LINUX INSTALL PARTY
 
 ## ¿Por qué necesito Linux?
