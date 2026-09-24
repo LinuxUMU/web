@@ -6,7 +6,7 @@ layout: page
 
 ## ¿Por qué necesito Linux?
 
-Para algunas asignaturas a lo largo de primero necesitarás usar algunas herramientas que no están disponibles en Windows, y tener un entorno Linux es indispensable para **preparar prácticas y exámenes** en casa. Pero además, a lo largo de tu carrera informática, es una realidad que te lo van a pedir. si quieres aprender sistemas, redes, hardware o embebidos **TODO** es Linux.
+Para algunas asignaturas a lo largo de primero necesitarás usar algunas herramientas que no están disponibles en Windows, y tener un entorno Linux es indispensable para **preparar prácticas y exámenes** en casa.
 
 ## ¿Por qué no usar alternativas/versiones para Windows del software que usamos en clase?
 
@@ -38,5 +38,24 @@ Este **viernes 25 de septiembre**, en el **Aula 0.01**, durante **todo el día**
 
 ## ¿Qué necesito?
 
-Basta con traer **tu ordenador** con mínimo **64GB de espacio libre**, su **cargador** y un **pendrive** de **8GB** cuyo contenido no te importe perder (si no tienes, se te puede prestar uno o utilizaremos otros métodos de instalación, pero traer tu propia unidad pendrive sigue siendo **muy recomendable**). Es recomendable también hacer una copia de seguridad de aquellos archivos importantes que no queramos perder de nuestra instalación de Windows, ya que aunque la instalación de Linux es un proceso **0% invasivo**, un error nos podría provocar perdidas de información.
+Basta con traer **tu ordenador** con mínimo **64 GB de espacio libre**, su **cargador** y un **pendrive** de **8 GB** cuyo contenido no te importe perder (si no tienes, se te puede prestar uno o utilizaremos otros métodos de instalación, pero traer tu propia unidad pendrive sigue siendo **muy recomendable**). Es recomendable también hacer una copia de seguridad de aquellos archivos importantes que no queramos perder de nuestra instalación de Windows, ya que aunque la instalación de Linux es un proceso **0% invasivo**, un error nos podría provocar pérdidas de información.
 
+---
+
+# Anexo: ¿Por qué _me obligan_ a usar Linux?
+
+Aunque la imposición de utilizar un sistema operativo que aún no conoces pueda parecer un capricho de la facultad, hay varias razones de peso que justifican esta decisión.
+
+## La realidad del sector: Las empresas aman Linux
+
+Mientras que en el día a día estamos acostumbrados a ver los mismos sistemas operativos en los equipos informáticos de escritorio, _lo que no se ve_ no podría estar más alejado de esta realidad. Factores como la **altísima estabilidad** y la **no dependencia de otras empresas privadas** para soportar infraestructuras y servicios empujan a las empresas y organizaciones a optar por soluciones libres y transparentes. La gran mayoría de aplicaciones, servicios online e incluso infraestructuras reales y sistemas cotidianos como hospitales, transporte público y ordenadores de a bordo de los vehículos modernos están respaldados por un sistema operativo Linux.
+
+Las facultades de informática y otras instituciones educativas conocen esta realidad, y formar a los estudiantes bajo el ecosistema del presente responde a la necesidad de prepararte con las **herramientas del hoy y el mañana**.
+
+## "Pero yo no soy una empresa. ¿Por qué tenerlo en mi ordenador personal?"
+
+Aparte del propio pragmatismo de acostumbrarse a aquello con lo que vas a trabajar, utilizar Linux como escritorio (¡que era su finalidad inicial!) presenta diferentes factores a favor:
+
+1. **Soberanía digital personal:** Al instalar o usar sistemas operativos de empresas privadas como Microsoft Windows o macOS, aceptas que estás utilizando su sistema operativo únicamente bajo las condiciones y términos que te sean impuestos. Por otra parte, al instalar Linux, eres **literalmente** dueño de tu instalación. Nadie puede revocarte nada de lo que ya tienes y eres **libre** de hacer con ello todo lo que te convenga.
+
+2. **Por y para programadores:** Próximamente descubrirás que mientras que configurar compiladores y herramientas de desarrollo en otros sistemas operativos puede ser un quebradero de cabeza, en Linux todo es nativo y viene integrado de forma directa y **fácil**. Es un entorno pensado para que dediques tu tiempo a programar y trabajar (o estudiar, como en nuestro caso), en lugar de perder horas peleándote con configuraciones escondidas del sistema.
