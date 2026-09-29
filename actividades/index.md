@@ -38,3 +38,5 @@ le importase Windows, se puede instalar Linux como único sistema operativo.
 
 [Preguntas Frecuentes](lip-faq)
 
+![lip2026](/images/lip2026.jpg)
+
