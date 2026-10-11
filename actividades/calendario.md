@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Actividades
+# Calendario de actividades
 
 ## [Viernes 25 de Septiembre / Aula 0.01 FIUM] Linux Install Party 2026
 
