@@ -22,8 +22,8 @@ title: LinuxUMU
 email: linuxumu@um.es
 description: >- # this means to ignore newlines until "baseurl:"
   Web de LinuxUMU
-baseurl: "/web" # the subpath of your site, e.g. /blog
-url: "https://linuxumu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://linux.inf.um.es" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
