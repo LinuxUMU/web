@@ -27,8 +27,9 @@ A ese efecto, los objetivos de esta organización son:
    sobretodo de empresas fuera de la UE, que por la fuerza obligan el uso de software
    privativo; y la vuelta al alojamiento local de los servicios de la universidad,
    para devolver la soberanía de nuestros datos.
- - Educar sobre el mal uso de la IA generativa y LLMs, suprimiéndolo en el contexto
-   universitario. Enseñar como investigar problemas en internet sin recurrir a ella.
+ - Educar sobre el uso responsable de la IA generativa y LLMs, suprimiendo su mal
+   e indiscriminado uso.
+   La IA como una herramienta más para el pensamiento crítico, no como subordinación cognitiva. 
  - Fomentar la participación en proyectos de software, cultura, redes y hardware libre.
  - Educar en buenas prácticas en la especificación, diseño, implementación, implantación
    y gestión de proyectos de software libre.
