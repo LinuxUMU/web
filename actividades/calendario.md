@@ -4,6 +4,24 @@ layout: page
 
 # Calendario de actividades
 
+## [Jueves 12 de Noviembre / Lab 2.4 FIUM] Torneo de SuperTuxKart y Counter-Strike de San Alberto
+
+Como propuesta de LinuxUMU de actividad de San Alberto se llevaron acabo dos torneos,
+de SuperTuxKart (software libre) y Counter-Strike (soporta Linux oficialmente), para
+ayudar a avivar el fuego de la vida universitaria en San Alberto.
+
+Todas las inscripciones de aquellos que quieran participar son a través de DELFI.
+
+Este año, San Alberto fue muy divertido gracias al gran trabajo organizativo y creativo
+de DELFI, congratulaciones desde LinuxUMU. Durante los torneos hubo muchas risas y
+una sana competitividad y sentimiento de camaradería.
+
+Esperamos hacer algo más el año que viene :D
+
+![stk2026]({{ "/images/actividades/stk2026.webp" | absolute_url }})
+
+![cs2026]({{ "/images/actividades/cs2026.webp" | absolute_url }})
+
 ## [Viernes 25 de Septiembre / Aula 0.01 FIUM] Linux Install Party 2026
 
 El objetivo de esta actividad es ayudar a los estudiantes de nuevo
@@ -38,5 +56,5 @@ le importase Windows, se puede instalar Linux como único sistema operativo.
 
 [Preguntas Frecuentes](lip-faq)
 
-![lip2026]({{ "/images/lip2026.jpg" | absolute_url }})
+![lip2026]({{ "/images/actividades/lip2026.webp" | absolute_url }})
 
